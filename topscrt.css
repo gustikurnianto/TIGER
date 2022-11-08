@@ -1,0 +1,311 @@
+.layerprofil{
+
+    visibility: hidden;
+    opacity: 0;
+
+}
+
+.layerprofilfoto{
+
+    visibility: hidden;
+    opacity: 0;
+
+}
+
+.layerBGfoto{
+
+    visibility: hidden;
+    opacity: 0;
+
+}
+
+.layertheme{
+
+    visibility: hidden;
+    opacity: 0;
+
+}
+
+.layermedsos{
+
+    visibility: hidden;
+    opacity: 0;
+
+}
+
+#titledit1{
+
+    background-color: black;
+    color: white;
+    font-size: 13px;
+    font-weight: bolder;
+    font-family: 'Poppins';
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 120px;
+    height: auto;
+    padding: 10px;
+    margin-top: 60px;
+    margin-left: -61.7%;
+    visibility: hidden;
+    opacity: 0;
+
+}
+
+#titleditfoto{
+
+    background-color: black;
+    color: white;
+    font-size: 13px;
+    font-weight: bolder;
+    font-family: 'Poppins';
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 160px;
+    height: auto;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: -48.7%;
+    visibility: hidden;
+    opacity: 0;
+
+}
+
+#titleditBG{
+
+    background-color: black;
+    color: white;
+    font-size: 13px;
+    font-weight: bolder;
+    font-family: 'Poppins';
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 160px;
+    height: auto;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: -48.7%;
+    visibility: hidden;
+    opacity: 0;
+
+}
+
+#titledit2{
+
+    background-color: black;
+    color: white;
+    font-size: 13px;
+    font-weight: bolder;
+    font-family: 'Poppins';
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 120px;
+    height: auto;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: -61.7%;
+    visibility: hidden;
+    opacity: 0;
+
+}
+
+#titledit3{
+
+    background-color: black;
+    color: white;
+    font-size: 13px;
+    font-weight: bolder;
+    font-family: 'Poppins';
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 160px;
+    height: auto;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: -48.7%;
+    visibility: hidden;
+    opacity: 0;
+
+}
+
+#menutools {
+    background: white;
+    width: 313px;
+    height: 60px;
+    z-index: 100;
+    overflow-x: hidden;
+    border-radius: 100px;
+    border: 1px solid white;
+    position: fixed;
+    bottom: 35px;
+    left: 50%;
+    transform: translateX(-50%);    
+    z-index: 200;
+    box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.20);
+    display: none;
+    visibility: hidden;
+    opacity: 0;
+}
+
+.groupusername{
+
+    margin-top: 10%;
+    width: 313px;
+    height: auto;
+    visibility: hidden;
+    opacity: 0;
+    display: none;
+
+}
+
+#ubahusername{
+
+    color: transparent;
+    font-size: 12px;
+    font-weight: 600;
+    font-family: 'Poppins';
+    border-radius: 7px;
+    height: auto;
+    width: 250px;
+    padding: 12px;
+    box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.25);
+    background-color: white;
+    border: 1px solid transparent;
+    margin-top: 0px;
+    background-image: url("https://lh3.googleusercontent.com/juNC4z_JUjRcUUftG-HtSeLhtgaKEXH74bkDITQvjoJw8IzszkQgt9-O74NtG1BJf4txT6l7Wyie0tu-KfTPlA0Hm-DbbY3pfdlOkF5kXSRHh0g0205tpWDBcEd0fXcYTkt-BNOvEg=w2400");
+    background-size: 6%;
+    background-repeat: no-repeat;
+    background-position: 93% 50%;
+    visibility: hidden;
+    opacity: 0;
+
+}
+
+#ubahusername::placeholder{
+
+    color: rgb(205, 205, 205);
+
+}
+
+#ubahusername:focus{
+
+    outline: none;
+
+}
+
+#emLonLyIds{
+
+    color: transparent;
+    font-size: 12px;
+    font-weight: 600;
+    font-family: 'Poppins';
+    margin-top: 10px;
+    border-radius: 7px;
+    height: auto;
+    width: 250px;
+    padding: 12px;
+    box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.25);
+    background-color: white;
+    border: 1px solid transparent;
+    background-image: url("https://lh3.googleusercontent.com/Dn_sR2IST7noa5dTgyhrnKlDaPOTnc0UE3WljmQma26n_U3BkCc4KkAeRj9kOc-cBvdFEoSFb4tO3hSyZTtOENzkFbSKoaEaCCMctHkNYYQwBXFJ0XUJU0mzP4lYxF-7bQd1S4wABQ=w2400");
+    background-size: 8%;
+    background-repeat: no-repeat;
+    background-position: 94% 50%;
+    visibility: hidden;
+    opacity: 0;
+
+}
+
+#emLonLyIds::placeholder{
+
+    color: rgb(205, 205, 205);
+
+}
+
+#emLonLyIds:focus{
+
+    outline: none;
+
+}
+
+#useRonLyIds{
+
+    color: transparent;
+    font-size: 12px;
+    font-weight: 600;
+    font-family: 'Poppins';
+    margin-top: 10px;
+    border-radius: 7px;
+    height: auto;
+    width: 250px;
+    padding: 12px;
+    box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.25);
+    background-color: white;
+    border: 1px solid transparent;
+    background-image: url("https://lh3.googleusercontent.com/TxEx8iCfB2GQmn2MPDc406MDvBMPvQAUykN4VrNKi8AtwUgga3i6qZ39yDt9dbW8KwqSksqkW_--pPFUz0Ahf_fYwTJgQkkt9Rq3IaEfCT_F8CIfMcNPxK3qHWkKhRpYgxvIlQYeTQ=w2400");
+    background-size: 8%;
+    background-repeat: no-repeat;
+    background-position: 94% 50%;
+    visibility: hidden;
+    opacity: 0;
+
+}
+
+#useRonLyIds::placeholder{
+
+    color: rgb(205, 205, 205);
+
+}
+
+#useRonLyIds:focus{
+
+    outline: none;
+
+}
+
+.cancelmenuz{
+
+    width: 130px;
+    height: auto;
+    background-color: white;
+    border-radius: 100px;
+    box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.25);
+    text-align: right;
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: 'Poppins';
+    padding-right: 15px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-image: url("https://lh3.googleusercontent.com/-c88E6R3X8AsrHrV5Et5Q8OQqKk7CXUiHfI6S82ahhF7-zDjbJu8IZ-naXe2cxR5lKtXHpUMkrC6oUf9w1KXQ_5Hsl2YkPrWki0MnlNZ14eMsFJv2lW9x6s9kU3KKwsEQqZ1CEnU0w=w2400");
+    background-size: 10%;
+    background-repeat: no-repeat;
+    background-position: 12% 50%;
+    cursor: pointer;
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    display: none;
+    visibility: hidden;
+    opacity: 0;
+
+}
+
+.cancelmenuz:hover{
+
+    background-color: rgb(237, 237, 237);
+    transition-duration: 300ms;
+
+}
