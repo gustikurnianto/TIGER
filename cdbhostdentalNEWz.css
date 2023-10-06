@@ -2532,49 +2532,49 @@
     background-position: 93% 45%;
 }
 
-.overlayjeniskelamin{
-    inset: 0;
-    margin: auto;
-    width: 300px;
-    height: 115px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    padding-left: 15px;
-    padding-right: 15px;
-    position: fixed;  
-    z-index: 200;
-    background-color: white;
-    color: black;
-    font-family: 'Noto Sans JP';
-    font-size: 12px;
-    font-weight: 800;
-    text-align: left;
-    border: 4px solid white;
-    border-radius: 10px;
-    box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.50);
-}
+                        .overlayjeniskelamin{
+                            inset: 0;
+                            margin: auto;
+                            width: 260px;
+                            height: 95px;
+                            padding-top: 5px;
+                            padding-bottom: 5px;
+                            padding-left: 15px;
+                            padding-right: 15px;
+                            position: fixed;  
+                            z-index: 200;
+                            background-color: white;
+                            color: black;
+                            font-family: 'Noto Sans JP';
+                            font-size: 12px;
+                            font-weight: 800;
+                            text-align: left;
+                            border: 4px solid white;
+                            border-radius: 10px;
+                            box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.50);
+                        }
 
-.overlaytahunbulan{
-    inset: 0;
-    margin: auto;
-    width: 300px;
-    height: 115px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    padding-left: 15px;
-    padding-right: 15px;
-    position: fixed;  
-    z-index: 200;
-    background-color: white;
-    color: black;
-    font-family: 'Noto Sans JP';
-    font-size: 12px;
-    font-weight: 800;
-    text-align: left;
-    border: 4px solid white;
-    border-radius: 10px;
-    box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.50);
-}
+                        .overlaytahunbulan{
+                            inset: 0;
+                            margin: auto;
+                            width: 260px;
+                            height: 95px;
+                            padding-top: 5px;
+                            padding-bottom: 5px;
+                            padding-left: 15px;
+                            padding-right: 15px;
+                            position: fixed;  
+                            z-index: 200;
+                            background-color: white;
+                            color: black;
+                            font-family: 'Noto Sans JP';
+                            font-size: 12px;
+                            font-weight: 800;
+                            text-align: left;
+                            border: 4px solid white;
+                            border-radius: 10px;
+                            box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.50);
+                        }
 
 .jenispria{
     color: black;
